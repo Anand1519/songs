@@ -1,0 +1,12 @@
+{
+  "name": "songs",
+  "displayName": "songs",
+  "expo": {
+    "name": "songs",
+    "slug": "songs",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
